@@ -1,0 +1,745 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Judgment given forth by twenty-eight Quakers against George Keith and his Friends with answers to the said judgment declaring those twenty-eight Quakers to be no Christians : as also An appeal (for which several were imprisoned &amp;c.) by the said George Keith &amp;c. to the early meeting Sept. 1692, with a full account of the said yearly meeting signed by seventy Quakers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46344</idno>
+            <idno type="STC">Wing J1173</idno>
+            <idno type="STC">ESTC R28748</idno>
+            <idno type="EEBO-CITATION">10750254</idno>
+            <idno type="OCLC">ocm 10750254</idno>
+            <idno type="VID">45657</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46344)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45657)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1405:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Judgment given forth by twenty-eight Quakers against George Keith and his Friends with answers to the said judgment declaring those twenty-eight Quakers to be no Christians : as also An appeal (for which several were imprisoned &amp;c.) by the said George Keith &amp;c. to the early meeting Sept. 1692, with a full account of the said yearly meeting signed by seventy Quakers.</title>
+                  <author>Budd, Thomas, 1648-1699. A true copy of three judgments.</author>
+               </titleStmt>
+               <extent>22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed for Richard Baldwin,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Glasgow University Library.</note>
+                  <note>A true copy of three judgments given forth by a party of men called Quakers, at Philadelphia against George Keith and his Friends : with two answers to the said judgments / [by Thomas Budd] (p. 1-13) -- An appeal from the twenty eight judges to the spirit of truth and judgment in all faithful Friends called Quakers that meet at this yearly meeting at Burlington, the seventh month, 1692 / by George Keith (p. 14-18) -- From the yearly meeting at Burlington, the fourth, fifth, sixth, and seventh days of the seventh month, 1692 (p. 19-22)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716.</term>
+               <term>Keith, George, 1639?-1716. --  Appeal from the twenty eight judges.</term>
+               <term>Society of Friends --  Discipline.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45657:1"/>
+            <p>THE JUDGMENT Given forth by <hi>Twenty Eight Quakers</hi> AGAINST George Keith, And his FRIENDS, With <hi>Anſwers</hi> to the ſaid <hi>Judgment,</hi> declaring thoſe Twenty Eight Quakers to be <hi>No Chriſtians.</hi> AS ALSO, An <hi>Appeal</hi> (for which ſeveral were Impriſoned, <hi>&amp;c</hi>) by the ſaid <hi>George Keith,</hi> &amp;c. to the <hi>Yearly Meeting, <hi>Sept.</hi>
+               </hi> 1692. With a Full ACCOUNT of the ſaid <hi>Yearly Meeting,</hi> Signed by Seventy Quakers.</p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>LICENSED,</p>
+                     <closer>
+                        <date>
+                           <hi>Octob.</hi> 28th, 1693.</date>
+                        <signed>Dan. Poplar.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed at <hi>Penſilvania;</hi> and now Re-printed at <hi>London,</hi> for <hi>Richard Baldwin,</hi> near the <hi>Oxford-Arms</hi> in <hi>Warwick-lane.</hi> 1694.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:45657:2"/>
+            <head>An ADVERTISEMENT by <hi>George Keith.</hi>
+            </head>
+            <p>THat divers Papers ſtufft with Lies and Calumnies against <hi>George Keith,</hi> our Oppoſers hand about from one to another, and ſome from Meeting to Meeting, which we cannot yet procure Copies of; as one of <hi>Rob. Owen</hi>'s, which he Read in a Publick Meeting at <hi>Philadelphia:</hi> and tho' he expreſly promiſed <hi>G. K.</hi> a Copy of it, yet now detains it, pre<g ref="char:EOLhyphen"/>tending he did not limit a time. Another Paper of <hi>James Byles</hi> they carry about from Meeting to Meeting: and another Paper that was ſign'd by many at their Yearly Meeting, which <hi>G. K.</hi> occaſionally hearing read at their Quarterly Meeting at <hi>Philadelphia,</hi> deſir'd a Copy of it, which they most unjuſtly refuſed. And thus like all Evil Doers, they ſeek to hide their Evil Deeds, and ſmite at the Innocent in ſecret. And for all their hypocritical Pre<g ref="char:EOLhyphen"/>tences to the Light, they are ſuch, that are not willing to have their Deeds brought to the Light, as Christ ſaid, <hi>The evil doer hates the light, and will not bring his deeds to the light, leſt they ſhould be reproved.</hi> If they had Truth on their ſide, they would not ſo ſmite in the dark, but would openly, and face to face, appear, and make good their Charge; but this they cannot: for they have no Covering or Refuge, but Lies and Falſe<g ref="char:EOLhyphen"/>hoods, which GOD in his due time will ſweep away, to the clearing the Innocent. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="publishers_preface">
+            <head>The Printer (<hi>William Bradford</hi>'s) ADVERTISEMENT.</head>
+            <p>THat notwithſtanding the various Reports ſpread concerning my refuſing to Print for thoſe that are <hi>George Keith</hi>'s Oppoſers, theſe are to ſigni<g ref="char:EOLhyphen"/>fie, That I have never refuſed, but often proffered to Print any thing for them; and do now again ſignifie, That if <hi>John Delaval,</hi> or any of his Brethren, have any thing to Print, I am most willing to do it for them: not that I want to beg their Work, I need it not; but to leave them without excuſe, that if they be any way wronged, or falſly charged by what is Publiſhed to the World, they may have equal priviledge to vindicate themſelves as pub<g ref="char:EOLhyphen"/>lickly: tho' I have little cauſe to make this offer to them, conſidering their many Abuſes to me.</p>
+            <closer>
+               <signed>W. B.</signed>
+               <dateline>
+                  <hi>Printed in</hi> Philadelphia <hi>in</hi> Penſilvania. <date>
+                     <hi>1693.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:45657:2"/>
+            <head>A true Copy of Three Judgments given forth by a Party of Men, called <hi>Quakers,</hi> at <hi>Phi<g ref="char:EOLhyphen"/>ladelphia,</hi> against <hi>George Keith,</hi> and his <hi>Friends:</hi> With Two Anſwers to the ſaid Judgments.</head>
+            <div type="part">
+               <head>The First Judgment.</head>
+               <p>AT a Monthly Meeting in <hi>Philadelphia,</hi> the 26th of 11 Mon. 1691. <hi>Thomas Fitzwater</hi> charged <hi>George Keith,</hi> for <hi>denying the ſufficiency of the Light,</hi> which <hi>G. Keith</hi> denying, <hi>T. Fitz<g ref="char:EOLhyphen"/>water</hi> inſiſted, that he could prove the ſame; and being examined concerning his Proof thereof, ſeveral Friends preſent ſtood up, and ſaid, <hi>They heard the ſaid</hi> George Keith <hi>ſay, That he did not believe the Light was ſufficient, without ſomething elſe;</hi> namely, <hi>Thomas Prichard, William Harwood, Benjamin Chambers, William Southbe,</hi> and ſeveral others. And after the matter in Debate had been throughly heard, the aforeſaid Credible Evidences giving their Teſtimonies as above-ſaid, the Meeting ſaw no reaſon to give Judgment againſt <hi>Tho. Fitzwater,</hi> in this particular above-mentioned; but the ſaid <hi>Thomas</hi> very readily left the matter to this Meeting, and condemned the raſh Spirit that he ſpoke thoſe words in, although the Charge in it ſelf was true.</p>
+               <closer/>
+               <postscript>
+                  <p>
+                     <hi>This is a Copy of what paſſed at a Monthly Meeting in</hi> Philadelphia, <date>
+                        <hi>the</hi> 26. <hi>of</hi> 3. <hi>Month.</hi> 1692.</date>
+                  </p>
+                  <closer>
+                     <signed>A. M.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="part">
+               <head>The Second Judgment.</head>
+               <p>WE being prevented in our Meetings of late, to proceed orderly in buſineſs, by reaſon of a turbulent and unſubdued Spirit, which has much diſquieted us, but having reſpite at this time, have conſidered ſeriouſly and duly of a Charge exhibited ſeveral Months paſt, by <hi>George Keith,</hi> againſt <hi>William Stockdale,</hi> many, if not moſt of us, being preſent at ſeveral Meetings, where the Allegations of each
+<pb n="2" facs="tcp:45657:3"/> ſide were heard; and as the Friends then preſent concluded on a Judgment in this matter, but were prevented of publiſhing the ſame, by reaſon of <hi>George Keith</hi>'s unruly Behaviour, and extream Paſſion, which abruptly broke up the ſaid Meeting, we declare our concur<g ref="char:EOLhyphen"/>rent ſence as followeth, That whereas Proof was made by two Wit<g ref="char:EOLhyphen"/>neſſes, <hi>That</hi> William Stockdale <hi>ſhould ſay, That</hi> George Keith<hi>'s preach<g ref="char:EOLhyphen"/>ing Christ without, and Christ within, was preaching two Chriſts:</hi> which <hi>W. Stockdale</hi> denied the words ſo ſpoken; and alledged, That <hi>George Keith</hi> called him, an <hi>Ignorant Heathen,</hi> and gave him ſeveral vilifying Expreſſions. Our Judgment is, <hi>That</hi> William Stockdale <hi>is reprovable, and blame-worthy, for uttering the ſaid Words, they being an Offence to many ſound and tender Friends, and that he condemn the ſame.</hi> And as for <hi>G. Keith</hi>'s manner of proceeding againſt him, we cannot own the ſame to be purſuant to Goſpel Order, the ſaid <hi>G. Keith</hi> having not alone dealt with him in private, before he had further proſecuted his Com<g ref="char:EOLhyphen"/>plaint; neither can we hold him excuſable for his undecent Expreſ<g ref="char:EOLhyphen"/>ſions to <hi>W. Stockdale,</hi> he being elder in Truth and in Years.</p>
+               <closer>
+                  <dateline>
+                     <hi>Given forth by the Meeting of Publick Friends, at</hi> Philadelphia, <date>
+                        <hi>the</hi> 4th <hi>of</hi> 4th <hi>Month.</hi> 1692.</date>
+                  </dateline>
+                  <signed>A True Copy, by <hi>Samuel Jenings.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The Third Judgment, and Condemnation, against <hi>G. K.</hi>
+               </head>
+               <head>To the ſeveral Monthly and Quarterly Meetings in <hi>Penſilvania, Eaſt</hi> and <hi>Weſt-Jarſey,</hi> and elſe-where, as there may be occaſion.</head>
+               <p>BEloved Friends: In tender Love, and with Spirits bowed down before the Lord, is this our Salutation unto you, earneſtly deſi<g ref="char:EOLhyphen"/>ſiring your growth and daily preſervation in the ancient Truth, and in the ſimplicity of the Goſpel of our Lord Jeſus Chriſt; and our Hope and Breathings are, that no inſinuation or wiles of the Enemy ſhall prevail to turn you aſide from your Steadfaſtneſs, or to cauſe you to eſteem lightly of the Rock and Way of Gods Salvation unto you, but that you be kept in the Light and Life, which was, and is the Juſt Mans Path to the end of our Days. <hi>Amen.</hi>
+               </p>
+               <p>Now, <hi>dear Friends,</hi> it is with Sorrow of Spirits, and Grief of Souls, that we ſignifie unto you the tedious Exerciſe and vexatious Perplexi<g ref="char:EOLhyphen"/>ty we have met with in our late Friend <hi>George Keith,</hi> for ſeveral Months paſt: With mourning and lamentation do we ſay, How is this Mighty Man fallen! how is his Shield vilely caſt away, as tho' he had not known the Oyl of the holy Oyntment! How ſhall it betold in <hi>Gath,</hi> and publiſhed in the Streets of <hi>Askelon!</hi> Will not the Daughters of the <hi>Philiſtines</hi> rejoyce? Will not the Daughters of the Uncircumciſed
+<pb n="3" facs="tcp:45657:3"/> triumph, when they hear that <hi>he is fallen upon the ſooring Mountains, and from the High Places of</hi> Iſrael! Oh! how are we diſtreſſed for thee, thou as a Man ſlain in thy High Places! Whilſt thou walked in the Counſel of God, and wert little in thine own Eyes, thy Bow did abide in ſtrength, thy Sword returned not empty; from the Fat of the Enemies of God, thy Bow turned not back; his Enemies were then vile unto thee, and his Followers honourable in thy eſteem. Oh! how lovely wert thou in that day, when his Beauty was upon thee, and when his Comlineſs covered thee! Why ſhould his Orna<g ref="char:EOLhyphen"/>ments exalt thee, which were given to humble thee before him! and how thou art <hi>fallen from thy first Love,</hi> and are <hi>become treacherous to the Spouſe of thy Youth!</hi> Conſider where thou art fallen, and repent, and do thy firſt Works.</p>
+               <p>But ſo it hath happen'd, Friends, leſt any Fleſh ſhould glory, but become ſilent before the Lord, that this once <hi>Eminent Man,</hi> and <hi>In<g ref="char:EOLhyphen"/>ſtrument of Renown,</hi> in the hand of the Lord, whilſt he kept his firſt Habitation, and knew the Government of Truth over his own Spirit, and witneſſed the ſame to be a Bridle to his Tongue, was then ſer<g ref="char:EOLhyphen"/>viceable both in Pen and Speech to the Churches of Chriſt; but now, and of late, it is too obvious and apparent, that being degene<g ref="char:EOLhyphen"/>rated from the lowly meek and peaceable Spirit of Chriſt Jeſus, and grown cool in Charity and Love towards his Brethren, that he is <hi>gone into a Spirit of Enmity, Wrath, Self-Exaltation, Contention and Jang<g ref="char:EOLhyphen"/>lings;</hi> and as <hi>a Perſon without the fear of God before his Eyes,</hi> and <hi>with<g ref="char:EOLhyphen"/>out regard to his Chriſtian Brethren,</hi> and <hi>letting looſe the Reins to an extra<g ref="char:EOLhyphen"/>vagant Tongue,</hi> he hath broken out into many <hi>ungodly Speeches, railing Accuſations, and paſſionate Threatnings,</hi> towards many of his Brethren and Elders, and that upon ſlender Occaſions; and when ſome in Chriſtian Duty have laid before him his Unſavoury Words, and Un<g ref="char:EOLhyphen"/>chriſtian Frame, he hath treated them with ſuch vile Words, and abuſive Language, ſuch as a Perſon of common Civility would loath. It hath been too frequent with him, and that in a tranſport of Heat and Paſſion, to call ſome of his Brethren in the Miniſtry, and other Elders, and that upon ſmall Provocations, if any <hi>Fools, ignorant Hea<g ref="char:EOLhyphen"/>thens, Infidels, ſilly Souls, Lyars, Hereticks, rotten Ranters, Muggletonians,</hi> and other Names of that infamous ſtrain, thereby, to our grief, <hi>foam<g ref="char:EOLhyphen"/>ing out his own Shame.</hi> And further, his <hi>Anger and Envy,</hi> being <hi>cruel against us,</hi> and not contenting himſelf with his harſhneſs againſt Per<g ref="char:EOLhyphen"/>ſons, but he proceeded in bitterneſs of Spirit to charge our Meeting, with being <hi>come together to cloak Hereſie and Deceit;</hi> and publiſhing openly ſeveral times, <hi>That there were more Doctrines of Devils, and Dam<g ref="char:EOLhyphen"/>nable Hereſies, among the</hi> Quakers, <hi>than among any Profeſſion among the</hi>
+                  <pb n="4" facs="tcp:45657:4"/> Proteſtants. He hath long objected againſt our Diſcipline, even ſoon after his coming among us, and having prepared a Draught of his own, and the ſame not finding the expected Reception, he ſeem'd diſguſted ſince: He hath often quarrell'd with us about Confeſſions, declaring, <hi>That he knew none given forth by the Body of Friends to his ſatisfaction;</hi> and often charg'd moſt of us, of being unſound in the Faith: We have offered in ſeveral Meetings for his ſatisfaction, and to prevent Strife among us, and for preſerving the Peace of the Church, to deliver a Confeſſion of our <hi>Chriſtian Faith</hi> in the words of our Lord and Saviour Jeſus Chriſt, the Author of the <hi>Chriſtian Faith,</hi> and in the words of the Apoſtles and Diſciples, his faithful Followers; or we would declare our Belief in Teſtimonies of our ancient Friends, and faithful Brethren, who were generally received by us; or we would concur and agree upon a Confeſſion, and have it tranſmitted to the Appro<g ref="char:EOLhyphen"/>bation of the Yearly Meeting here, or the Yearly Meeting at <hi>London;</hi> yea, it was offered unto him at the ſame time, that a Confeſſion con<g ref="char:EOLhyphen"/>cerning the <hi>main Matter in Controverſie,</hi> ſhould be given out of a Book of his own, but all was ſlighted as inſufficient. The Lord knows the trouble which we have had with this unruly Member, and the open<g ref="char:EOLhyphen"/>neſs of our Hearts and Well-wiſhes towards him, notwithſtanding his Rage and Violence agasnſt us, and of the Endeavours of many in this place, to have gain'd upon him by a Friendly Converſe, and by other Means not inconſiderable to a Brotherly Freedom; but our Labour hitherto ſeems to be as Water ſpilt upon the Ground: <hi>And this Meet<g ref="char:EOLhyphen"/>ing having tenderly and orderly dealt with him,</hi> for his <hi>abuſive Language, and diſorderly Behaviour;</hi> he hath not only ſlighted all Applications of gaining him to a ſence of his ill Treatments and Miſcarriages, but in an inſulting manner ſaid to the Friends appointed by the Meeting to admoniſh him, <hi>That he trampled the Judgment of the Meeting under his Feet as dirt:</hi> And hath of late ſet up a ſeparate Meeting here, where he hath, like an open Oppoſer, not only reviled ſeveral Friends, by expoſing their Religious Reputations, in mixt Auditories of ſome Hundreds, endeavouring to render them and Friends here, by the Preſs and otherways, a Scorn to the Prophane, and the Song of the Drunkards, but he hath traduced and vilified our worthy travelling Friends, <hi>J. D.</hi> and <hi>T. W.</hi> in their powerful and ſavoury Miniſtry, whoſe Service is not only here, but in moſt Meetings in <hi>England, Scot<g ref="char:EOLhyphen"/>land,</hi> and <hi>Ireland,</hi> well known to have a Seal in the Hearts of many Thouſands of the <hi>Iſrael</hi> of God. He hath alſo within a few Weeks appeared in oppoſition as it were, to the Body of Friends, by put<g ref="char:EOLhyphen"/>ting on his Hat, when our well-received and recommended Friend, <hi>J. Dickenſon,</hi> was at Prayer, and that in a Meeting of near a Thou<g ref="char:EOLhyphen"/>ſand
+<pb n="5" facs="tcp:45657:4"/> Friends, and others; and ſo going out of the Meeting, to the great Diſquiet thereof, and to the drawing ſome Scores into the ſame Oppoſition with him, by his ill Example: and he thus perſiſting in his repeated Oppoſitions, hard Speeches, and continued Separa<g ref="char:EOLhyphen"/>tion, and labouring like an unwearied Adverſary, to widen the Breach made by him, and ſo abuſing ſome of the neighbouring Meetings, by being as yet under that Cover of being owned by us, we are hereby brought under a Religious Conſtraint, and to prevent other Meetings of being further injur'd by him, to give forth this Teſtimony, ſtrain<g ref="char:EOLhyphen"/>ed as it were from us by his many and violent Provocations, <hi>viz.</hi> That we cannot own him in ſuch ungodly Speeches, and diſorderly Behaviour, or in his ſeparate Meetings, and that we diſown the ſame, as proceeding from a wrong Spirit, which brings into diſorder in<g ref="char:EOLhyphen"/>wardly, and leads into diſtraction and confuſion outwardly; and un<g ref="char:EOLhyphen"/>til he condemn and decline the ſame; we cannot receive him in his Publick Miniſtry, and would have him ceaſe to offer his Gift, as ſuch, among us, or elſewhere among Friends, till he be reconciled to his offended Brethren. And as to thoſe few of our Brethren in the Gift of the Miniſtry, who are gone out with <hi>G. Keith,</hi> into his uncharita<g ref="char:EOLhyphen"/>ble and dividing Spirit, the miſerable Effects whereof many of us have ſufficiently known in <hi>Old England,</hi> and other parts, our Judg<g ref="char:EOLhyphen"/>ment is, <hi>That whilst they continue ſuch, they become unqualified to the Work of the Goſpel, as degenerating thereby from the Guidance of God's bleſſed and peaceable Spirit in their Hearts (from whence proceeds the effectual New Teſtament Miniſtry) and being turned from the peaceable Fruits thereof, are gone to Uncharity and Contention.</hi> And now, all you who have walked in <hi>Fellowſhip</hi> and <hi>Communion</hi> with us, and are drawn aſide through Inconſideration, or otherwiſe, into this <hi>Spirit</hi> of <hi>Separation</hi> and <hi>Pre<g ref="char:EOLhyphen"/>judice</hi> againſt our <hi>Meetings orderly eſtabliſhed,</hi> and wherein we have been often and mutually refreſht together, we cannot but in the fear of God, and in love to your Souls, admoniſh you alſo of the <hi>Inſecurity of your preſent State,</hi> and that <hi>therein we cannot have Unity with you, and unleſs you return from under that Spirit, Dryneſs and Barrenneſs from the Lord will be your Reward.</hi> And ſo, <hi>dear Friends,</hi> we exhort you all, to behave your ſelves in the <hi>Spirit of Meekneſs, and peaceable Truth,</hi> upon all occaſions, but more eſpecially upon any Diſcourſe or Con<g ref="char:EOLhyphen"/>ference with any of them who are diſcontented among you, or ſtarted aſide from you; and avoid all <hi>Heats</hi> and <hi>Contentions in Matters of Faith and Worſhip;</hi> and let not the <hi>Salt of the Covenant be wanting</hi> in your Words and Actions, for thereby the <hi>Savour of your Converſation</hi> will reach the <hi>Witneſs of God in them.</hi> The Grace of our Lord Jeſus Chriſt be with you all. <hi>Amen.</hi>
+               </p>
+               <pb n="6" facs="tcp:45657:5"/>
+               <closer>
+                  <dateline>Given forth by the Meeting of Publick Friends in <hi>Philadelphia,</hi> 
+                     <date>the 20th of the 4th Month, 1692.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Samuel Jenings,</hi>
+                        </item>
+                        <item>
+                           <hi>John Delavall,</hi>
+                        </item>
+                        <item>
+                           <hi>William Yardly,</hi>
+                        </item>
+                        <item>
+                           <hi>Joſeph Kerckbridge,</hi>
+                        </item>
+                        <item>
+                           <hi>Walter Faucet,</hi>
+                        </item>
+                        <item>
+                           <hi>Hugh Roberts,</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Owen,</hi>
+                        </item>
+                        <item>
+                           <hi>William Walker,</hi>
+                        </item>
+                        <item>
+                           <hi>John Lynam,</hi>
+                        </item>
+                        <item>
+                           <hi>George Gray,</hi>
+                        </item>
+                        <item>
+                           <hi>John Symcock,</hi>
+                        </item>
+                        <item>
+                           <hi>Griffith Owen,</hi>
+                        </item>
+                        <item>
+                           <hi>John Bown,</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Willis,</hi>
+                        </item>
+                        <item>
+                           <hi>Paul Saunders,</hi>
+                        </item>
+                        <item>
+                           <hi>John Blunſton,</hi>
+                        </item>
+                        <item>
+                           <hi>William Cooper,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Thackray,</hi>
+                        </item>
+                        <item>
+                           <hi>William Byles,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Loyd,</hi>
+                        </item>
+                        <item>
+                           <hi>John Willsford,</hi>
+                        </item>
+                        <item>
+                           <hi>Nicholas Walln,</hi>
+                        </item>
+                        <item>
+                           <hi>William Watſon,</hi>
+                        </item>
+                        <item>
+                           <hi>George Maris,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Ducket,</hi>
+                        </item>
+                        <item>
+                           <hi>Joſhua Fearne,</hi>
+                        </item>
+                        <item>
+                           <hi>Evan Morris,</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Walter.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>Here follows Two Anſwers to the ſaid Judgments.</head>
+               <opener>
+                  <salute>To all faithful Friends in <hi>Penſilvania, Eaſt</hi> and <hi>Weſt-Jarſey,</hi> and to all every-where elſe, in all parts of the World, to whoſe Hands this may come, The Salutation of Love.</salute>
+               </opener>
+               <p>WE in behalf of our ſelves, and many Brethren, who are falſly called the Separate Meeting at <hi>Philadelphia,</hi> having taken into our ſerious and weighty Conſideration, Three ſeveral Papers, given forth by them of the oppoſite ſide, who have oppoſed us, and conti<g ref="char:EOLhyphen"/>nue to oppoſe us in our preſent Teſtimony to the Truth of Chriſt, and his bleſſed Goſpel and Doctrine, <hi>viz.</hi> The firſt given forth by the Monthly Meeting of the oppoſite ſide, the 20th of the 3d Month, 1692; wherein they clear <hi>T. Fitzwater</hi> of his falſly accuſing <hi>G. K.</hi> for <hi>denying the ſufficiency of the Light,</hi> ſaying expreſly in their ſaid Paper, <hi>That Four credible Witneſſes giving their Teſtimony, That they heard</hi> G. K. <hi>ſay, He did not believe the Light was ſufficient, without ſomewhat elſe: the Meeting ſaw no reaſon to give Judgment against</hi> T. Fitzwater <hi>in this par<g ref="char:EOLhyphen"/>ticular, the ſaid</hi> Thomas <hi>condemning the raſh Spirit that he ſpoke theſe Words in, though the Charge in itſelf was true.</hi> And <hi>G. K.</hi> having both at Quar<g ref="char:EOLhyphen"/>terly and Monthly Meeting preceding, ſufficiently proved, and which was confeſſed by <hi>T. Lloyd,</hi> as the Mouth of theſe Meetings, <hi>That by that ſomewhat elſe,</hi> G. K. <hi>had frequently declared, he did not mean Humane Learning, nor the Scriptures, nor outward Preaching, (altho' the Scriptures, and outward Preaching are inſtrumental, in God's ordinary way of working, together with the inward Operation of the Spirit to Mens Sal<g ref="char:EOLhyphen"/>vation) as abſolutely neceſſary, but the Man Christ Jeſus, and what he
+<pb n="7" facs="tcp:45657:5"/> did and ſuffered for us on Earth, and what he now doth for us in Heaven, and the fulneſs that dwelleth in him.</hi> By which it plainly appeareth, the ſaid Monthly Meeting hath excluded the Man Chriſt Jeſus, our bleſſed Mediator and Saviour, from having any part or concern in our Salvation, and therefore we do unanimouſly, and with one Heart, judge and condemn their falſe Judgment, in clearing <hi>Tho. Fitzwater,</hi> that hath this tendency, not only to condemn <hi>G. K.</hi> for his ſound <hi>Chriſtian Doctrine,</hi> but is a <hi>plain denyal of the Man Christ Je<g ref="char:EOLhyphen"/>ſus,</hi> and the <hi>great Merits, and Value, and Efficacy of his Suffering, Death, Reſurrection, and Aſcenſion, and his Mediation for us in Heaven:</hi> All which are ſomewhat elſe, than the People called <hi>Quakers</hi> commonly underſtand by the Light; to wit, the Light in every Man's Con<g ref="char:EOLhyphen"/>ſcience. And by this raſh and inconſiderate Act of their Monthly Meeting, proceeding from great <hi>Ignorance, Error, and Unbelief</hi> in them, they have ſufficiently declared themſelves to be <hi>no true Believers in the Man Chriſt Jeſus,</hi> and therefore <hi>No Chriſtians:</hi> and for this cauſe we cannot own them to be our <hi>Chriſtian Brethren,</hi> nor joyn with them in any <hi>Religious Worſhip,</hi> until they condemn themſelves for the ſaid Act, and give us ſome Evidence of their <hi>unfeigned Repen<g ref="char:EOLhyphen"/>tance,</hi> and <hi>ſincere Faith,</hi> by their open <hi>Confeſſion</hi> and <hi>Declaration</hi> of the <hi>Truth of Christ,</hi> which now they have denied.</p>
+               <p>The Second Paper is given forth by a Meeting of theſe called <hi>Friends of the Miniſtry,</hi> ſigned by <hi>Sam. Jenings,</hi> as Clerk of the ſaid Meeting, wherein they give too partial and defective Judgment againſt <hi>William Stockdale,</hi> not blaming him for any <hi>Offence</hi> to <hi>God</hi> or <hi>Christ,</hi> nor con<g ref="char:EOLhyphen"/>victing him for his <hi>Sin of Blaſphemy,</hi> whereof he was guilty, in charg<g ref="char:EOLhyphen"/>ing <hi>G. K.</hi> for <hi>preaching Two Chriſts,</hi> becauſe he preach'd <hi>Faith in Christ within,</hi> and <hi>in Christ without us;</hi> wherein he plainly denied <hi>Faith in Chriſt without us,</hi> that we judge <hi>Blaſphemy against the Son of Man.</hi> Alſo, the ſaid Meeting hath falſly judged and blamed <hi>G. K.</hi> for calling <hi>W. S. an ignorant Heathen;</hi> for ſeeing he denied <hi>Faith in Chriſt without us,</hi> we judge it was his proper Name, and he was not worthy to be accounted in the Truth, having diſcovered his ſo great Ignorance and Unbelief in one of the <hi>great Fundamenals of the Chriſtian Faith.</hi> Alſo, they falſly ac<g ref="char:EOLhyphen"/>cuſe <hi>G. K.</hi> for not giving <hi>W. S. Goſpel Order;</hi> whereas, upon due Exa<g ref="char:EOLhyphen"/>mination, we find, that he had given him ſufficient <hi>Goſpel Order.</hi>
+               </p>
+               <p>The Third Paper is ſigned by <hi>Samuel Jenings, John Simcock, Thomas Lloyd,</hi> and others, in Number 28, all pretended Preachers, wherein they have paſſed a moſt falſe Judgment againſt <hi>G. K.</hi> for his ſound <hi>Chriſtian Doctrine,</hi> and <hi>Godly Zeal,</hi> in ſharply reproving <hi>groſs Anti<g ref="char:EOLhyphen"/>chriſtian Errors</hi> that he had detected them guilty of, partly by the open <hi>Confeſſion of ſome,</hi> and partly by the <hi>Connivance of others,</hi> and ſeeking to cloak and cover and defend the <hi>Guilty;</hi> and the ſaid Three Papers,
+<pb n="8" facs="tcp:45657:6"/> and the Matter contained in them being ſufficiently anſwered in a late Book, called, <hi>The Plea of the Innocent,</hi> &amp;c. which we having read and well conſidered, do approve of, and allow to be given forth by our una<g ref="char:EOLhyphen"/>nimous Conſent and Approbation, the particular things, in matter of Fact, therein contained, being all known to ſome of us, and the moſt principal to moſt of us: And we of this Meeting deliver it as our una<g ref="char:EOLhyphen"/>nimous Judgment, that all theſe who have given Judgment in the ſaid Three Papers above-mentioned, have given a falſe Judgment in them againſt the Truth, and againſt <hi>G.K.</hi> and his Friends joyned with him in this Teſtimony. And we do declare againſt their falſe Judgment, and ſay, <hi>That</hi> G. K. <hi>and other Friends of the Miniſtry joyned with him in this Teſtimony, ought not to forbear the Exerciſe of their Miniſterial Gift that God hath given them, notwithſtanding the falſe Judgment of falſe Bre<g ref="char:EOLhyphen"/>thren, that have joyned together in a Faction against him, and his faithful Brethren, but that he and his ſaid faithful Brethren of the Miniſtry ought to be encouraged and received by all faithful Friends every-where, in the uſe and exerciſe of their Miniſterial Gifts, which we are perſwaded they ſtill have, and the uſe and exerciſe thereof will tend to the Glory of God, the Proſperity of Truth, and Salvation of Souls.</hi> And we alſo deliver it as our unanimous Judgment, that all theſe 28 Perſons that have ſigned that falſe Judgment againſt <hi>G.K.</hi> and his Friends, ought not to be own'd nor countenanced in their Preaching or Praying, but denied, and all others that juſtifie them, until they condemn themſelves for their ſaid falſe and raſh Judgment againſt <hi>G. K.</hi> and his Brethren; and until they give ſome publick and open Confeſſion and Declaration that they are <hi>ſound in the Faith of Christ,</hi> they having given ſufficient cauſe to us, to conclude, <hi>That at preſent they have not the ſound Faith of Chriſt.</hi> And tho' we have juſt cauſe to blame them for condemning us without all Hearing and Trial, yet they have no cauſe to blame us, becauſe we have oft ſought and requeſted a Meeting with them, to have Things of Difference fairly debated and tried, but could never obtain it; and they having now made publick their falſe Judgment againſt us, in three ſeveral Papers, we are concerned, for the <hi>Defence of Truth,</hi> and our <hi>Reputation,</hi> both as <hi>Men</hi> and <hi>Chriſtians,</hi> to give forth this publick Te<g ref="char:EOLhyphen"/>ſtimony againſt them, and to recommend it to all faithful Friends to conſider and examine by the Spirit of Truth; and let both their pub<g ref="char:EOLhyphen"/>lick Papers and ours be impartially weighed in the Ballance of Truth, in order to which we are willing that all their Papers be printed as well as ours, that have been publiſhed on both ſides, that ſo the im<g ref="char:EOLhyphen"/>partial Readers may have a fair Opportunity to judge of both.</p>
+               <closer>
+                  <dateline>
+                     <hi>Given forth at our Meeting at the Houſe of</hi> Philip James <hi>in</hi> Philadel<g ref="char:EOLhyphen"/>phia, <date>
+                        <hi>the</hi> 3d <hi>of</hi> 5th <hi>Month,</hi> 1692,</date> 
+                     <hi>in behalf of many of our Brethren both in Town and Country, who are one with us in this Teſtimony, thô not now preſent.</hi>
+                  </dateline>
+                  <pb n="9" facs="tcp:45657:6" rendition="simple:additions"/>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Richard Dungworth,</hi>
+                        </item>
+                        <item>
+                           <hi>John Wells,</hi>
+                        </item>
+                        <item>
+                           <hi>Philip James,</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Furnis,</hi>
+                        </item>
+                        <item>
+                           <hi>James Shattick,</hi>
+                        </item>
+                        <item>
+                           <hi>James Cooper,</hi> ſen.</item>
+                        <item>
+                           <hi>William Davis,</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Wallis,</hi>
+                        </item>
+                        <item>
+                           <hi>James Poulter,</hi>
+                        </item>
+                        <item>
+                           <hi>Nicholas Pierce,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Budd,</hi>
+                        </item>
+                        <item>
+                           <hi>John Barclay,</hi>
+                        </item>
+                        <item>
+                           <hi>William Bradford,</hi>
+                        </item>
+                        <item>
+                           <hi>James Cooper,</hi> jun.</item>
+                        <item>
+                           <hi>John Loftus,</hi>
+                        </item>
+                        <item>
+                           <hi>John</hi> M' <hi>Comb,</hi>
+                        </item>
+                        <item>
+                           <hi>James Chick,</hi>
+                        </item>
+                        <item>
+                           <hi>John Bartram,</hi>
+                        </item>
+                        <item>
+                           <hi>Abel Noble,</hi>
+                        </item>
+                        <item>
+                           <hi>Joſeph Walker,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Paſchall,</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Helliard,</hi>
+                        </item>
+                        <item>
+                           <hi>William Waite,</hi>
+                        </item>
+                        <item>
+                           <hi>Anthony Sturges,</hi>
+                        </item>
+                        <item>
+                           <hi>Ralph Ward,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Peart,</hi>
+                        </item>
+                        <item>
+                           <hi>John Chainler,</hi>
+                        </item>
+                        <item>
+                           <hi>Peter Chamberlain.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>An Expoſtulation with <hi>Samuel Jenings, Thomas Lloyd,</hi> and the reſt of the Twenty Eight unjuſt Judges and Signers of the Paper of Condemnation againſt <hi>G. K.</hi> and his Friends: And Complaint for a Publick Hearing and Tryal before all impartial People.</head>
+               <p>WHereas <hi>Samuel Jenings, Thomas Lloyd,</hi> and others, being in Number Twenty Eight, have publiſhed a Paper againſt <hi>G. K.</hi> and the reſt of his Brethren, who are joyned with him in this Teſti<g ref="char:EOLhyphen"/>mony for the Lord Jeſus, againſt whom they propheſie, <hi>That Dryneſs and Barrenneſs from the Lord will be their Reward.</hi> We having read and conſidered the ſaid Judgment, do teſtifie againſt it, as an unjuſt and unrighteous Act; but that which aggravates the Crime againſt them is, that they ſay, <hi>This Meeting having tenderly and orderly dealt with him,</hi> &amp;c. when they know in their Conſciences, they dealt not with <hi>G. K.</hi> nor ever ſent for him to their ſaid Meeting, but Tried and Judged him altogether in his abſence; wherein they have done worſe than the <hi>Baptiſts</hi> did in the caſe of <hi>Tho. Hicks:</hi> for when Friends appealed to the People called <hi>Baptiſts,</hi> for Juſtice againſt <hi>T. Hicks,</hi> they took their time, and appointed a Meeting, and three or four Days before the ſaid Meeting, ſent Letters to <hi>G. W.</hi> and <hi>W. P.</hi>'s Houſes, to give them Notice to be at the Meeting; but they being ſo far from home, that they could not have timely Notice, it was reckon'd great Injuſtice for them to proceed and try Friends, and <hi>T. Hicks,</hi> in their abſence; and upon Complaint they gave ano<g ref="char:EOLhyphen"/>ther Meeting: but <hi>T. Lloyd, S. Jenings,</hi> and the reſt are ſo far ſhort of the Juſtice of the <hi>Baptiſts,</hi> that they never ſo much as acquainted <hi>G. K.</hi> of their Meeting, or Intent to proceed againſt him, nor never ſent for him that we can underſtand, only <hi>W. Byles</hi> came to <hi>G. K.</hi>'s Houſe, and asked for him, his Wife told, He was from home, and ſhe expected him the next Morning; but they told nothing of their
+<pb n="10" facs="tcp:45657:7"/> buſineſs with him, but in all haſt proceeded to judge him in his ab<g ref="char:EOLhyphen"/>ſence before he came home. Is this your orderly dealing with him? Is this your Juſtice? Is this your Chriſtian Tenderneſs? your Cha<g ref="char:EOLhyphen"/>rity, and your bearing with him in a Chriſtian Spirit? for ſhame ceaſe thus proceeding, or you will be a ſtink in the Noſtrils of the Nations where it ſhall be told. What! pretend to <hi>Chriſtianity,</hi> and fall ſhort of <hi>Heathen</hi> Juſtice! <hi>Joh.</hi> 7.50, 51. <hi>Acts</hi> 25 16, 17. Did the <hi>Baptiſts</hi> do unfair in proceeding to try Friends in their abſence? Then much more you: for they gave ſome Notice before of their intending to try <hi>Tho. Hicks,</hi> but you never ſo much as told <hi>G. K.</hi> of your ſo Meeting: wherefore allow us ſo much Juſtice as the <hi>Baptiſts</hi> did, to have another Meeting publickly to try <hi>G. K.</hi> where all Peo<g ref="char:EOLhyphen"/>ple may be preſent, that are willing to come, and whereof <hi>G. K.</hi> may have timely Notice, and liberty to plead his own Cauſe, and let all impartial People judge; and through God's aſſiſtance we ſhall make it appear, that your ſaid Judgment is unjuſt, and <hi>G. K.</hi> not worthy of Condemnation. Was there ever ſuch an Act done in any Chriſtian Society before, to condemn a man without ever hearing of him, or ſuffering him to ſpeak for himſelf? Surely its far ſhort of any worldly Court, where the Party ſhall have timely Notice to prepare for his Tryal, and liberty to plead his own Cauſe in the face of the Coun<g ref="char:EOLhyphen"/>try, and where his Accuſers are not allowed to ſit and give Judg<g ref="char:EOLhyphen"/>ment againſt him: But ſo it is, that theſe Unjuſt and Unrighteous Judges have proceeded to Try, Judge, and Publiſh their Judgment againſt <hi>G. K.</hi> without ever hearing of him, when it is well known the moſt of them were his great Oppoſers: They might be ſure this way to condemn him, when only a Faction of them get together, and accuſe him, and he, nor any for him, be preſent to ſpeak for him. But that which ſtill heightens the Crime of <hi>Tho. Lloyd, Sam. Jenings,</hi> and the reſt of the Twenty Eight Unjuſt Judges, is, that they of the Miniſtry ſhould give ſuch a falſe Judgment, and then impoſe it on all the Meetings in theſe Three Provinces, when moſt of the Friends thereof are great Strangers to the Matter in Contro<g ref="char:EOLhyphen"/>verſie, not knowing which Party is in the right, but they muſt take the ſaid Judgment upon truſt from them, without enquiring into the Cauſe and Verity thereof; and where they think their ſaid Judgment will not readily be ſwallowed down, they will follow it from Meet<g ref="char:EOLhyphen"/>ing to Meeting, clothed with their Magiſtratical Robes; and if any Friends ſhew their diſlike of having it impoſed on them without their own conſent and conſideration of the matter, preſently threaten to bind them to the good Behaviour, and to the Peace, and call out for a Conſtable, thereby endeavouring to trample us down by their
+<pb n="11" facs="tcp:45657:7" rendition="simple:additions"/> Magiſtratical Power and Authority, as <hi>Samuel Jenings, Sam. Richard<g ref="char:EOLhyphen"/>ſon, Thomas Lloyd, John Delavall,</hi> and <hi>Anthony Morris,</hi> did lately, at a Monthly Meeting near <hi>Frankford,</hi> as is well known to many. Oh! whither do you think theſe things will run? Will it not give People juſt cauſe to ſay, The <hi>Quakers</hi> are turned Perſecutors? but our Truſt and Confidence is in the Lord alone, who hitherto has pleaded the Cauſe of the Innocent, and carried his People through all the Powers and Oppoſitions that have hitherto riſen up againſt them in all Ages, and we doubt not but he will do the ſame for us, as we keep faith<g ref="char:EOLhyphen"/>ful to him, and to the Guidance of his Holy Spirit, Light and Life in our Hearts. But are theſe your Proceedings <hi>Chriſtian,</hi> or <hi>Proteſtant-like?</hi> Or do they not rather reliſh of rank <hi>Popery,</hi> for the Clergy, or them of the Miniſtry, to impoſe their Edicts on the People, without their enquiring into the matter? Is not this blind Obedience? Is not this believing as the Church believes, in order to bring in <hi>Ignorance the Mother of Devotion?</hi> Oh! who but ignorant and blind Men, but can ſee theſe things! And yet now will ye ſtand in them, O ye <hi>Unjuſt Judges!</hi> will ye not be willing to anſwer our juſt Complaint for a Hearing? Will you <hi>come ſhort of the Juſtice of the Baptiſts,</hi> who admitted of another <hi>Meeting</hi> for a Hearing? But perhaps you will ſay, <hi>The Act of that Meeting was Infallible, being made up of ſuch a Body of the Miniſtry,</hi> (as <hi>Arthur Cook</hi> ſaid lately in the Houſe of <hi>G. K. That a Yearly Meeting could not err.</hi>) But we deſire to hope, that ſome of you will better conſider of it, and anſwer our juſt Complaint, and not lurk in Holes and Corners, but come openly and defend your ſelves, and repent of the Error and falſe Doctrine you have run into; and let a Time and Place be ap<g ref="char:EOLhyphen"/>pointed and agreed on by both Parties for a Publick Hearing: If you have Truth and Juſtice on your ſide, come forth and let it appear before the World; and ſay not, <hi>That ſuch and ſuch things are falſe,</hi> but prove them to be ſo, and bring things to the light, and let not Chriſt's words be fulfilled on you, <hi>viz. You hate the Light, becauſe your Deeds are evil,</hi> &amp;c. Say not, that we are bold and daring thus to chal<g ref="char:EOLhyphen"/>lenge you: for it's not writ in a preſumptuous Spirit, as relying on our own Strength or Parts, but on the Lord alone, on whom is our Dependance, and who knows the Innocency of our Cauſe, and there<g ref="char:EOLhyphen"/>fore we are not afraid to bring it to the Teſt, but willing to appear openly, as hitherto we have done in Print, and not as your Practice is to report falſe things ſecretly abroad, which we know not whom to faſten upon; but what we publiſh in Print, remains to be the Au<g ref="char:EOLhyphen"/>thor's, whether true or falſe; If falſe, why don't you refute it, the Preſs is free and open for you, as for any? But the matter in our late Printed Books is true, and ſtands over your Heads, and which you will never be able to refute.</p>
+               <pb n="12" facs="tcp:45657:8" rendition="simple:additions"/>
+               <p>But next, let us enquire, What have you condemned <hi>G. K.</hi> for? Some of you ſay, <hi>Partly for matter of Doctrine, and partly for hard Words:</hi> But as for Doctrine you have not mentioned what it is; and as for the hard Names you mention, it is made appear in, <hi>The Plea of the Innocent,</hi> &amp;c. that they were juſtly given by <hi>G. K.</hi> to them that deſerved the ſame: But have his Oppoſers given no hard Names, no unjuſt and falſe Reflections? Yea, many. But why only then muſt <hi>G. K.</hi> be condemned, and not they alſo who have given hard Words, and falſe Names to <hi>G. K.?</hi> When <hi>G. K.</hi> complained againſt them for not giving Judgment againſt <hi>W. Stockdale</hi>'s Blaſphemy, <hi>Samuel Jenings</hi> could excuſe it, by bringing the Example and Practice of worldly Courts, ſaying, <hi>George, thou haſt reviled thy Brethren, and in Court, we allow of Diſcount.</hi> So that according to <hi>S. Jenings, W. Stock<g ref="char:EOLhyphen"/>dale</hi>'s Blaſphemy muſt be diſcounted againſt <hi>G. K.</hi>'s reviling his Bre<g ref="char:EOLhyphen"/>thren, as they account it, but can never prove. But if Diſcount be allowable in this caſe, why are not <hi>G. K.</hi>'s hard words diſcounted a<g ref="char:EOLhyphen"/>gainſt thoſe that have been given to him, ſo far as they will reach? And that it may appear what hard Names have been given, we think fit here to mention, <hi>viz.</hi>
+               </p>
+               <p>They ſay <hi>G. K.</hi> has called them,</p>
+               <p n="1">1. <hi>Fools.</hi> 2. <hi>Ignorant Heathens.</hi> 3. <hi>Infidels.</hi> 4. <hi>Silly Souls.</hi> 5. <hi>Lyars.</hi> 6. <hi>Hereticks.</hi> 7. <hi>Rotten Ranters.</hi> 8. <hi>Muggletonians.</hi>
+               </p>
+               <p>They of the other ſide have called <hi>G. K.</hi>
+               </p>
+               <p n="1">1. <hi>Brat of Babylon.</hi> 2. <hi>Accuſer of the Brethren.</hi> 3. <hi>Apoſtate.</hi> 4. <hi>Worſe than Prophane.</hi> 5. <hi>A Troubler of the Church.</hi> 6. <hi>A Perſon that no one could have difference with, but he was in danger of the Life of his Soul.</hi> 7. <hi>A Preacher of two Chriſts.</hi> 8. <hi>A Teller of an old St.</hi> Andrew<hi>'s Story.</hi> 9. <hi>Pope.</hi> 10. <hi>Father Confeſſor.</hi> 11. <hi>Lyar.</hi> 12. <hi>Devil.</hi> 13. <hi>Muggleto<g ref="char:EOLhyphen"/>nian.</hi> 14. <hi>Compared him to a Wolf, Tyger,</hi> &amp;c. 15. <hi>One that always endeavoured to keep down the Power of Truth.</hi> 16. <hi>A more vexatious Ad<g ref="char:EOLhyphen"/>verſary than</hi> Hicks, Faldo, Scanderet, <hi>or the worſt of Enemies.</hi> 17. <hi>One that is fallen upon the ſoaring Mountains,</hi> &amp;c. 18. <hi>As a Man ſlain.</hi> 19. <hi>Become treacherous to the Spouſe of his Youth.</hi> 20. <hi>Fallen from his firſt Love.</hi> 21. <hi>Gone into a Spirit of Enmity, Wrath, Self-Exaltation, Con<g ref="char:EOLhyphen"/>tention,</hi> &amp;c. 22. <hi>Foaming out his own Shame.</hi> 23. <hi>A Perſon without the Fear of God before his Eyes.</hi> 24. <hi>Letting looſe the Reins to an extrava<g ref="char:EOLhyphen"/>gant Tongue.</hi> 25. <hi>Broken out into many ungodly Speeches, railing Accuſa<g ref="char:EOLhyphen"/>tions, paſſionate Threatnings, being Cruel,</hi> &amp;c. <hi>like an unwearied Adver<g ref="char:EOLhyphen"/>ſary.</hi> With many more that can be proved.</p>
+               <p>Now let the impartial Reader judge, which have exceeded in hard Words; and whether they are not very partial, to paſs by all that hath been ſaid againſt <hi>G. K.</hi> and condemn him for what he hath ſpoke
+<pb n="13" facs="tcp:45657:8" rendition="simple:additions"/> in its right place; as is made appear in the Book called, <hi>The Plea of the Innocent.</hi> And yet when <hi>G. K.</hi> was the Complainer for many Months, for Juſtice to be done to Truth, they could plead for Diſ<g ref="char:EOLhyphen"/>count, and put Blaſphemy againſt Chriſt Jeſus, in the Ballance, a<g ref="char:EOLhyphen"/>gainſt Reflections upon themſelves, and yet now will not diſcount for hard Words. And alſo, they have judged a whole Meeting, with<g ref="char:EOLhyphen"/>out ever admoniſhing of them. If this be not Partiality, Injuſtice, and Unrighteous Judgment, tell us what is. And clear your ſelves of theſe things, if you can.</p>
+               <closer>
+                  <dateline>
+                     <hi>Signed by us, in the behalf of the rest of our Friends, by order of our Meeting,</hi> 
+                     <date>
+                        <hi>the</hi> 18th <hi>of the Fifth Month,</hi> 1692.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>Thomas Budd,</item>
+                        <item>Richard Hilliard,</item>
+                        <item>John Hart,</item>
+                        <item>Thomas Paſchall.</item>
+                        <item>William Bradford,</item>
+                        <item>James Cooper,</item>
+                        <item>Elizabeth Keith.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>An APPEAL from the Twenty Eight Judges, to the Spirit of Truth and True Judgment, in all faithful Friends, called <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> that meet at this Yearly Meeting at <hi>Burlington,</hi> the Seventh Month, <hi>1692.</hi>
+               </head>
+               <p>WHereas Twenty eight Perſons, called Friends of the Miniſtry, have publiſht a Paper of falſe Judgment againſt <hi>George Keith,</hi> and the reſt of his Friends and Brethren, without any Hearing or Tryal, We, in behalf of the reſt, do make this our Serious and So<g ref="char:EOLhyphen"/>lemn Appeal to the Spirit of Truth and true Judgment in you all, that by the help and guidance of the ſame, ye may enquire and ſearch in<g ref="char:EOLhyphen"/>to the matter, requeſting and beſeeching you to do Juſtice in theſe things, for the Vindication of the Truth, and Honour of Chriſt, the Peace of your Conſciences, and the Credit and Repute of our Holy Profeſſion, and making up the Breach that is among us, if poſſible, and anſwering the expectation of our faithful Brethren in <hi>England,</hi> and other places of the World, who will be greatly concern'd with us, that Juſtice and true Judgment may take place impartially, and without reſpect of Perſons.</p>
+               <p>And <hi>Friends,</hi> Think it not ſtrange, that we appeal to you univer<g ref="char:EOLhyphen"/>ſally, that by the Spirit of Truth ye may give true Judgment in theſe Matters concerning Us, and theſe Twenty eight Perſons, and others of the Miniſtry, who are joyned with them therein: for tho' upon a pretence of their being Miniſters, they claim a Superiority over you the Lord's Heritage and People, as if ye were not capable, nor qua<g ref="char:EOLhyphen"/>lified
+<pb n="14" facs="tcp:45657:9"/> to judge them, but that they have Authority to judge you, and on this pretended Authority, (too like the <hi>Roman Hierarchy</hi>) they have ſent their Paper of Judgment againſt us to you, tho' they were no Yearly Meeting, nor any true Repreſentative of the Body of Friends in theſe three Provinces, but a Party or Faction of prejudi<g ref="char:EOLhyphen"/>ced Men againſt the Truth, (and us the defamed Witneſſes of it) many of whom we can prove guilty of great Ignorance and Error in Doctrine, as well as ſome of them are guilty of evil and ſcandalous Practice, repugnant to our Holy Profeſſion; and ſome that have been too buſie to comply with their uſurped Authority over you, have read the ſaid Judgment in divers Monthly, Quarterly, and other Meet<g ref="char:EOLhyphen"/>ings, without the Conſent of the ſaid Meetings, or ſo much as ask<g ref="char:EOLhyphen"/>ing it. All which we appeal to you, Whether it be not a manifeſt Uſurpation over you, and ſeeking to bring you into Bondage? And when we have at ſeveral Meetings requeſted the Friends of the ſaid Meetings, to enquire and examine the Matter of Difference between theſe Twenty eight Men and us, ſome of the ſaid Twenty eight have ſtill refuſed to ſuffer the thing to come to any further Examination or Judgment, pretending, <hi>None have power to judge in theſe Matters, but Friends of the Miniſtry,</hi> whereof theſe Twenty eight are the far great<g ref="char:EOLhyphen"/>eſt part in theſe Three Provinces, and moſt of the reſt of the Prea<g ref="char:EOLhyphen"/>chers are joyned with them, to uphold and defend them in their Ty<g ref="char:EOLhyphen"/>rannical Uſurpation over your Conſciences, as if ye were only to ſee with their Eyes, and hear with their Ears, and not with your own, and that ye were to take all things without all due Examination and Tryal, by an implicit Faith, <hi>Papiſt</hi>-like, from them. But if there remain that Nobility in you, and Sence of your <hi>Chriſtian Liberty</hi> and <hi>Freedom,</hi> wherewithal Chriſt hath made you free, as we hope there doth, ye will not ſuffer your ſelves to be ſo impoſed upon, nor to be thus Aſs-rid by them, as to take things by a bare implicit Faith from them, but every one of you to ſee with your one Spiritual Eyes, and hear with your Spiritual Ears of God's opening, and to bring theſe weighty Things of Difference to the true Touch-ſtone, the Spirit of Truth and true Judgment in your ſelves, which ye have as well as they, and which many of you are better taught by, and acquainted with, than they; even as formerly it was, that many of the People ſay beyond the Prieſts and Teachers, in the days of the <hi>Prophets,</hi> and of <hi>Chriſt in the Fleſh,</hi> and the <hi>Apoſtles;</hi> and alſo of late, many <hi>Thouſands of the People</hi> have ſeen <hi>beyond the Prieſt and Teachers,</hi> and have been made able by the Spirit of Truth to judge them for their great Ignorance and Error. And that ye may have the better opportunity to examine theſe matters, and impartially and throughly to ſearch into them, and judge of them, we have procured to be Printed their Three Papers of Judg<g ref="char:EOLhyphen"/>ment,
+<pb n="15" facs="tcp:45657:9"/> 
+                  <hi>viz.</hi> The firſt given forth by their Monthly Meeting at <hi>Phi<g ref="char:EOLhyphen"/>ladelphia,</hi> the 26th of the Third Month, 1692; wherein they clear <hi>Tho. Fitzwater,</hi> and condemn <hi>G. K.</hi> for ſaying, <hi>The Light is not ſuffici<g ref="char:EOLhyphen"/>ent, without ſomething elſe.</hi> Which ſomething elſe, <hi>Thomas Lloyd,</hi> as the Mouth of the ſaid Monthly Meeting, acknowledged, <hi>They knew</hi> G. K. <hi>held to be the Man Chriſt Jeſus, and what he did and ſuffered for us on Earth, and what he now doth for us in Heaven.</hi> The Second Judg<g ref="char:EOLhyphen"/>ment is given forth by them called Friends of the Miniſtry, concern<g ref="char:EOLhyphen"/>ing <hi>W. Stockdale,</hi> ſigned by <hi>Sam. Jenings,</hi> as Clerk of the ſaid Meeting, the 4th of the Fourth Month, 1692. The Third ſigned by Twenty eight of them of the Miniſtry, againſt <hi>G. K.</hi> and his Friends, <hi>&amp;c.</hi> Which ſaid Judgments we deſire you to compare with our Printed Anſwer, called, <hi>The Plea of the Innocent,</hi> &amp;c. and another called, <hi>An Expoſtulation with</hi> Tho. Lloyd, Sam. Jenings, <hi>&amp;c.</hi> and another by way of <hi>Epiſtle,</hi> in Anſwer to their Three falſe Judgments.</p>
+               <p>And we earneſtly requeſt and deſire of you, to procure of theſe Twenty eight Men, that we may have a Publick Hearing with theſe Men, before you all, at a Place and Time mutually appointed by them and us, before the People be gone from the Yearly Meeting; and that an orderly Method be agreed upon betwixt them and us, to prevent all Confuſion, and eſpecially that none but one ſpeak at once, and that every one that ſpeaketh, who is concerned, may have full liberty, without interruption, in order to which we are moſt wil<g ref="char:EOLhyphen"/>ling, that one or two Impartial and Judicious Men may be choſen by both them and us, to Preſide, and have full Power to command and enjoyn Silence to any of them or us, as they ſhall ſee occaſion; and whoever of them or us yieldeth not Obedience to the ſaid Com<g ref="char:EOLhyphen"/>mand, ſhall be held and declared unworthy and uncapable of further ſpeaking at the ſaid Publick Conference. And alſo, we demand that Juſtice of theſe Twenty eight Men, that they will give us the ſaid Publick Hearing and Tryal before you.</p>
+               <p>And let theſe particular things be diſcourſed of, and come to a Pub<g ref="char:EOLhyphen"/>lick Hearing and Tryal at the ſaid Meeting, and what other things they and we ſhall agree to, <hi>viz.</hi>
+               </p>
+               <p n="1">1. Whether <hi>George Keith</hi> hath been proved guilty by theſe Twenty eight Men (his Accuſers) of <hi>reviling, ungodly Speeches,</hi> and <hi>falſe Accuſa<g ref="char:EOLhyphen"/>tions?</hi> Or whether he hath given Names to any of them (as alledged in their Paper) that they did not deſerve, and did not belong to them? And whether it be not falſe, that they ſay, <hi>This Meeting having tenderly and orderly dealt with him?</hi>
+               </p>
+               <p n="2">2. Whether they who have ſigned that Paper againſt him, are not guilty of giving him Names that did not belong to him, but may be
+<pb n="16" facs="tcp:45657:10" rendition="simple:additions"/> juſtly accounted Names of <hi>reviling, ungodly Speeches,</hi> and <hi>falſe Accuſa<g ref="char:EOLhyphen"/>tions?</hi> And whether <hi>Samuel Jenings</hi> particularly is not greatly to be blamed, for calling <hi>G. K. Worſe than Prophane,</hi> and <hi>Apoſtate,</hi> ſeeing we know not wherein <hi>G. K.</hi> is in any one particular gone from Friends Doctrine or Practice, or what thing or things he is guilty of, ſo as to be worthy of having his Miniſtry denied?</p>
+               <p n="3">3. Whether it cannot be proved, that that Faction (which have ſufficiently ſhewn their oppoſition and prejudice againſt <hi>G. K.</hi> and have ſigned to that Paper againſt him) are <hi>guilty of cloaking more dam<g ref="char:EOLhyphen"/>nable Hereſies and Errors, than any Proteſtant Society in Chriſtendom,</hi> while it can be proved againſt them, that they have not only cloaked <hi>W. Stockdale</hi> for above Eighteen Months, in ſaying, <hi>To preach Faith in Chriſt within, and in Chriſt without, is to preach Two Chriſts:</hi> and <hi>Tho. Fitzwater,</hi> in ſaying, <hi>The Light is ſufficient without any thing elſe,</hi> and <hi>that he owned no Man Chriſt Jeſus, as Mediator in Heaven, but the Grace of God within him;</hi> and ſaying in his Prayer, <hi>O God that dy'd in us, and laid down thy Life in us,</hi> &amp;c. and ſaying, <hi>That he had not learned that Leſſon, whether the Godhead was crucified on the Tree of the Croſs, or ſomewhat that he took of the Virgin,</hi> &amp;c. But they have cloaked divers other Perſons in their vile and groſs Errors, as can be ſufficiently pro<g ref="char:EOLhyphen"/>ved, and particularly <hi>Sam. Jenings,</hi> in ſaying, <hi>To do our own Buſineſs, as Men, we needed not a ſupernatural Power.</hi> And <hi>Tho. Lloyd,</hi> in arguing ſome hours, <hi>That we might be Chriſtians good enough, without the Faith of Christ, as he died for our ſins, and roſe again without us.</hi> And <hi>Arthur Cook</hi> and <hi>J. Simcock</hi> in their charging <hi>G.K.</hi> for impoſing <hi>Novelties upon them,</hi> when he affirmed, <hi>Chriſt was in Heaven in the ſame Body, for being, in which he ſuffered;</hi> and <hi>J. Simcock</hi> denied that <hi>Christ roſe in the ſame Body in which he ſuffered.</hi> And <hi>Rob. Young,</hi> in ſaying, <hi>That he read not in all the Scri<g ref="char:EOLhyphen"/>ptures of Christ without, and Christ within;</hi> and <hi>that Christ was ſepara<g ref="char:EOLhyphen"/>ted from his Body in the Cloud.</hi> And <hi>Rob. Owen,</hi> and <hi>Will. Southbe,</hi> in <hi>de<g ref="char:EOLhyphen"/>nying any general Day of Judgment,</hi> and <hi>the Reſurrection of the Dead, but only what every one witneſſed within here.</hi> Whether theſe, with many more that can be proved, were not cauſe enough for <hi>G.K.</hi> to ſay, <hi>More damnable Hereſies and Errors were cloaked among the</hi> Quakers <hi>here, than in any</hi> Proteſtant Society <hi>in</hi> Chriſtendom?</p>
+               <p n="4">4. Seeing their Paper, ſigned by the Twenty eight, mentioneth a <hi>main Matter of Controverſie betwixt</hi> G. K. <hi>and them, which</hi> (they ſay) <hi>they proffered to refer to one of his own Books, or to the Yearly Meeting here, or to the Yearly Meeting at</hi> London; let them ſhew what that <hi>main Matter of Controverſie</hi> is, and wherein his preſent Doctrine doth contradict any of his former Books, which he ſaith, they can never prove.</p>
+               <p n="5">5. Whether the Act of the Monthly Meeting at <hi>Philadelphia,</hi> the
+<pb n="17" facs="tcp:45657:10"/> 26th of the Third Month, 1692, is according to Chriſtian Doctrine, <hi>That the Light is ſufficient without any thing elſe;</hi> thereby excluding the <hi>Man Christ Jeſus without us,</hi> and his <hi>Death and Sufferings, Reſurrection, Aſcention, Mediation, and Interceſſion for us in Heaven,</hi> from having any part or ſhare in our Salvation, and thereby making him only a titular, but no real Saviour, as one zealous for that ſide, lately called the Dif<g ref="char:EOLhyphen"/>ference betwixt them and us concerning Chriſt, <hi>An empty Barrel:</hi> and another great Zealot ſaid, <hi>He did not believe to be ſaved by that which died at</hi> Jeruſalem.</p>
+               <p n="6">6. Whether it be neceſſary to our Salvation to believe, <hi>That Chriſt died for our ſins without us, and roſe again, and is gone into Heaven with<g ref="char:EOLhyphen"/>out us, and there doth make Interceſſion for us?</hi> And whether it doth not belong to ſound Chriſtian Doctrine to believe, <hi>That Chriſt will come without us in his glorified Body, to judge the Quick and the Dead; and that there ſhall be a general Day of Judgment; and that there is a Reſurrection of the Dead to be; that the deceaſed Saints have not yet attained generally, but wait for it until Chriſt's coming?</hi> And whether <hi>there is not to be a Reſurrection of the Body, that is not the Reſurrection or Quickning of the Soul only,</hi> as ſome falſly imagine: Let them clear themſelves in theſe things, they having given us juſt cauſe to ſuſpect them Unbelievers therein.</p>
+               <p n="7">7. Whether every true <hi>Chriſtian</hi> is not taught and led to believe in the Power and Spirit of Chriſt, and his Light and Life inwardly re<g ref="char:EOLhyphen"/>vealed, and by the help of the ſaid meaſure to believe in him who hath the fulneſs, even the Man Chriſt Jeſus without us, glorified in Heaven? And whether by <hi>true Faith in the Man Christ Jeſus without us,</hi> as it is wrought by the Meaſure of the Spirit, and Light of Chriſt in us, we receive not a daily ſupply and increaſe of more <hi>Grace, Light and Life,</hi> and a further Meaſure of the Spirit from the <hi>Man Chriſt Je<g ref="char:EOLhyphen"/>ſus?</hi> And whether they who have not this Faith in the Man Chriſt Jeſus without them, are worthy to bear the honourable Name of <hi>Chriſtians?</hi>
+               </p>
+               <p n="8">8. Whether it is not a great and neceſſary part of <hi>Chriſtian Doctrine,</hi> neceſſary to be preached, in order to bring People to an inward know<g ref="char:EOLhyphen"/>ledge and enjoyment of God and Chriſt, and the Holy Spirit, to Preach <hi>Faith in Chriſt without us, even the Man Chriſt Jeſus,</hi> as he <hi>died for our ſins, and roſe again, and is aſcended into Heaven, and there maketh Inter<g ref="char:EOLhyphen"/>ceſſion for us,</hi> as well as <hi>Faith in Chriſt in us,</hi> as he doth <hi>inwardly enlighten us?</hi> And whether it can be ſaid, that the <hi>Man Chriſt Jeſus</hi> is in us, otherwiſe than by a figurative Speech, of giving the Name of the whole, to the meaſure or part; as when the Sun is ſaid to be in ſuch a Houſe, the fulneſs of the Sun's Light is only in the Body of the Sun, and but a Stream of Light cometh from the Sun into the Houſe?</p>
+               <pb n="18" facs="tcp:45657:11"/>
+               <p n="9">9. Whether the ſaid Twenty eight Perſons had not done much better to have paſſed Judgment againſt ſome of their Brethren at <hi>Phi<g ref="char:EOLhyphen"/>ladelphia,</hi> (ſome of themſelves being guilty) for countenancing and allowing ſome call'd <hi>Quakers,</hi> and owning them in ſo doing, to hire Men to fight (and giving them a Commiſſion ſo to do, ſigned by Three Juſtices of the Peace, one whereof being a Preacher among them) as accordingly they did, and recover'd a Sloop, and took ſome Privatiers by Force of Arms?</p>
+               <p n="10">10. Whether hiring Men thus to fight, and alſo to provide the <hi>In<g ref="char:EOLhyphen"/>dians</hi> with Powder and Lead, to fight againſt other <hi>Indians,</hi> be not a manifeſt tranſgreſſion of our Principle, againſt all uſe of the carnal Sword, and other carnal Weapons? And whether theſe call'd <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> in their ſo doing, have not greatly weakned the Teſtimony of Friends in <hi>England, Barbadoes,</hi> &amp;c. who have ſuffered much for their refuſing to contribute to uphold the Militia, or any Military Force? And whether is not their Practice here an evil Precedent, if any change of Government happen in this place, to bring Sufferings on faithful Friends, that for Conſcience-ſake refuſe to contribute to the Militia? And how can they juſtly refuſe to do that under ano<g ref="char:EOLhyphen"/>ther's Government, which they have done, or allowed to be done, under their own. But in theſe, and other things, we ſtand up Wit<g ref="char:EOLhyphen"/>neſſes againſt them, with all faithful Friends every-where.</p>
+               <p n="11">11. Whether it be according to the Goſpel, that Miniſters ſhould paſs <hi>Sentence of Death</hi> on <hi>Malefactors,</hi> as ſome pretended Miniſters here have done, preaching one day, <hi>Not to take an Eye for an Eye,</hi> Mat. 5.38. and another day to contradict it, by taking Life for Life?</p>
+               <p n="12">12. Whether there is any Example or Precedent for it in Scripture, or in all <hi>Chriſtendom,</hi> that Miniſters ſhould engroſs the Worldly Go<g ref="char:EOLhyphen"/>vernment, as they do here? which hath proved of a very evil ten<g ref="char:EOLhyphen"/>dency.</p>
+               <closer>
+                  <signed>
+                     <hi>Signed by us, in behalf of many Friends, who are one with us herein.</hi>
+                     <list>
+                        <item>George Keith,</item>
+                        <item>George Hutcheſon,</item>
+                        <item>Thomas Budd,</item>
+                        <item>John Hart,</item>
+                        <item>Rich. Dungworth.</item>
+                        <item>Abrah. Opedegraves.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <pb n="19" facs="tcp:45657:11" rendition="simple:additions"/>
+               <head>POSTSCRIPT.</head>
+               <p>BY a Warrant ſigned by <hi>Sam. Richardſon,</hi> and <hi>Rob. Ewer,</hi> Juſtices, the Sheriff and Conſtable entred the Shop of <hi>Will. Bradford,</hi> and took away all the above-written Papers they could find, call'd, <hi>An Appeal, &amp;c.</hi> and carried the ſaid <hi>W. Bradford</hi> before the ſaid Juſtices; and alſo ſent for <hi>John M' Comb,</hi> who (as they were informed) had diſpoſed of two of the ſaid Papers, and they not giving an Account where they had them, were both committed to Priſon: Alſo, they ſent <hi>R. Ewer,</hi> and the ſaid Officer, to ſearch the ſaid <hi>W. Bradford</hi> s Houſe again for more Papers, <hi>&amp;c.</hi> but found none yet, took away a parcel of Letters, be<g ref="char:EOLhyphen"/>ing his Utenſils, which were worth about 10 <hi>l.</hi> Now the ſaid Papers being ſeized, and a great Rumor ſpread abroad of <hi>Sedition, Diſturb<g ref="char:EOLhyphen"/>ance of the Peace,</hi> and <hi>Subverſion of the Government,</hi> &amp;c. we have, tho' with ſome difficulty, procured the ſaid <hi>Appeal</hi> to be Re-printed, that every one that deſired might have the Opportunity to read and judge of the Matter contained in the ſaid <hi>Appeal,</hi> and alſo to ſignifie, that we did not, nor do not intend any thing againſt the preſent Govern<g ref="char:EOLhyphen"/>ment, or Magiſtracy, but own them in Commiſſion to be Magi<g ref="char:EOLhyphen"/>ſtrates, and account it our Duty to obey them, either actively or paſ<g ref="char:EOLhyphen"/>ſively; but knowing that it is contrary to the <hi>Quakers</hi> Principles to uſe the carnal Sword, and finding by Experience that it is impoſſible to uphold Magiſtracy without it, therefore we propoſed it to be duly conſidered and diſcourſed of, among all Friends, at this Yearly Meet<g ref="char:EOLhyphen"/>ing at <hi>Burlington.</hi>
+               </p>
+               <div type="mittimus">
+                  <head>A COPY of the MITTIMUS.</head>
+                  <p>WHereas <hi>William Bradford,</hi> Printer, and <hi>John M' Comb,</hi> Taylor, being brought before us, upon Information of Publiſhing, Uttering, and Spreading a Malicious and Seditious Paper, entituled, <hi>An Appeal from the Twenty eight Judges, to the Spirit of Truth,</hi> &amp;c. tending to the Diſturbance of the Peace, and Subverſion of the preſent Government; and the ſaid Perſons being required to give Security to anſwer it at the next Court, but they refuſing ſo to do, Theſe are therefore by the King and Queen's Authority, and in our Proprietary's Name, to require you to take into your Cuſtody, the Bodies of <hi>William Bradford,</hi> and <hi>John M' Comb,</hi> and them ſafely keep, till they ſhall be diſcharg'd by due Courſe of Law; whereof fail not, at your Peril, and for your ſo doing, this ſhall be your ſufficient Warrant.</p>
+                  <closer>
+                     <date>
+                        <hi>Given under our Hands and Seals, this 24th of</hi> Auguſt, <hi>1692.</hi>
+                     </date>
+                     <signed>
+                        <hi>Theſe to</hi> John White, <hi>Sheriff of</hi> Philadelphia, <hi>or his Deputy.</hi>
+                        <list>
+                           <item>Arthur Cook,</item>
+                           <item>Samuel Jenings,</item>
+                           <item>Sam. Richardſon.</item>
+                           <item>Humph. Murrey,</item>
+                           <item>Robert Ewer,</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="20" facs="tcp:45657:12"/>
+               <head>From the <hi>Yearly Meeting</hi> at <hi>Burlington,</hi> the Fourth, Fifth, Sixth, and Seventh Days of the Seventh Month, <hi>Anno</hi> 1692.</head>
+               <opener>
+                  <salute>
+                     <hi>To our Friends and Brethren in the Truth, both in</hi> Penſilvania, Eaſt <hi>and</hi> Weſt-Jarſey, <hi>and elſewhere, as there may be occa<g ref="char:EOLhyphen"/>ſion, to be Read in their Monthly and Quarterly Meetings, as they in the Wiſdom of God ſhall ſee meet.</hi>
+                  </salute>
+               </opener>
+               <p>WHereas there hath been an unhappy Difference of late, between our Friends, <hi>George Keith,</hi> and the reſt concerned with him, and our Friends, <hi>Thomas Lloyd, John Simcock, Sam. Jenings,</hi> and others joyned with them, which hath tended to the great Reproach of Truth and Friends, and Diſhonour of our Holy Profeſſion. And whereas there hath been a Paper ſigned by <hi>Thomas Lloyd, Samuel Jenings, John Simcock,</hi> and others joyned with them, being in Number Twenty eight, of thoſe who have oppoſed <hi>George Keith,</hi> and the Friends joyned with him, whereby he is condemned, as <hi>a Perſon unfit and unqualified to be a Miniſter of Christ, and as a Perſon without the fear of God before his eyes,</hi> &amp;c. And whereas the ſaid Paper of Condemna<g ref="char:EOLhyphen"/>tion hath been the occaſion of ſetting up many ſeparate Meetings, as well as of other Confuſion and Diſturbance, (both privately and publickly) in theſe Parts. And whereas the ſaid <hi>George Keith,</hi> and others joyned with him, being offended with the ſaid Judgment, have appealed to the Spirit of Truth and true Judgment of all faith<g ref="char:EOLhyphen"/>ful Friends at this Yearly Meeting, and have requeſted (by a Second Paper ſent to the ſaid <hi>Thomas Lloyd,</hi> and the reſt concerned with him) That they might have a fair Hearing and Tryal before impar<g ref="char:EOLhyphen"/>tial Friends, (who have not taken part to the ſigning Papers ſent to each other, on either ſide) the Second Day of the ſaid Meeting, about an hour after the breaking up of the Meeting for Publick Worſhip; and we whoſe Names are hereunto ſubſcribed, being ex<g ref="char:EOLhyphen"/>treamly grieved and troubled, under a ſence of the Reproaches the Truth has met withal, by reaſon of the ſaid unhappy Difference, yet
+<pb n="21" facs="tcp:45657:12"/> having not concerned our ſelves actually in the ſaid Difference on either ſide, being met at the ſaid Meeting-Houſe, with true Deſires to the Lord, that he would make us inſtrumental to put an end to the ſaid Difference, and truly make up the ſaid Breach, before it grow wider, according to the Requeſt of the ſaid <hi>George Keith,</hi> and the reſt of the Friends joyned with him in their ſaid Appeal: And the ſaid <hi>Thomas Lloyd,</hi> and the reſt concerned, (though again deſired, by two Meſſengers from the Meeting, to appear, and they) refuſing, the Meeting adjourned till an hour after the Publick Meeting the next day; and then being aſſembled, and the ſaid <hi>Thomas Lloyd,</hi> and the reſt concerned ſtill refuſing to come, (although the ſaid <hi>Thomas Lloyd,</hi> had lately before adviſed the ſaid <hi>George Keith,</hi> to make Ap<g ref="char:EOLhyphen"/>plication to the Yearly Meeting in this Caſe, as divers of us can witneſs) and the ſaid <hi>George Keith,</hi> and the reſt concerned, laying their Complaint before us, and the ſaid <hi>Thomas Lloyd,</hi> and the reſt concerned, not appearing, (though again deſired ſeveral times) our Expectations and Deſires, (with reſpect to that effectual and abſo<g ref="char:EOLhyphen"/>lute healing the ſaid Breach) is in ſome meaſure fruſtrated. Not<g ref="char:EOLhyphen"/>withſtanding whereof, having heard the Papers on both ſides read, and having weightily and deliberately conſidered them, do give it as our Sence and Judgment, That the ſaid <hi>George Keith,</hi> and his Friends concerned in the ſaid Paper of Condemnation, are not guilty of the Charges and Cenſures therein contained; and that therefore, for the Honour, Proſperity, and Welfare of Truth, and Peace and Qui<g ref="char:EOLhyphen"/>etneſs of the Churches of Chriſt in theſe Parts, and elſewhere, the ſaid <hi>Thomas Lloyd,</hi> and the reſt of the ſaid Twenty eight Perſons, forthwith Re-call their ſaid Paper of Condemnation, and that they condemn the ſame by a Writing under their Hands, directed to all the Monthly and Quarterly Meetings, whereunto the ſaid Paper was directed; and that they forbear offering to ſpeak, by way of pub<g ref="char:EOLhyphen"/>lick Teſtimony in Meetings, till they have ſo done. And we do alſo give it as our Judgment, That thoſe Publick Friends who are charged with Miſdemeanours, and Ill Behaviour in their Lives and Converſations, do forbear ſpeaking in Publick Meetings by way of Teſtimony, till they clear themſelves, and make Satisfaction to their Brethren: And that all Publick Friends on both ſides, forbear all Railing and Reviling one another, either publickly or privately, which hath only this tendency, to diſhonour Truth, and lay Stum<g ref="char:EOLhyphen"/>bling-blocks in the Way of the Weak; but that in ſuch Caſe they obſerve the Primitive Churches Order, eſtabliſhed by Chriſt and his Apoſtles, and practiſed among Friends.</p>
+               <pb n="22" facs="tcp:45657:13"/>
+               <closer>
+                  <signed>Signed by Us, in behalf of Our Selves, and many more Friends, who are one with us herein.
+<list>
+                        <item>
+                           <hi>Robert Turner,</hi>
+                        </item>
+                        <item>
+                           <hi>Elias Burling,</hi>
+                        </item>
+                        <item>
+                           <hi>John Reid,</hi>
+                        </item>
+                        <item>
+                           <hi>Charles Reade,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Coborne,</hi>
+                        </item>
+                        <item>
+                           <hi>Harmon Updengraves,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Powell,</hi>
+                        </item>
+                        <item>
+                           <hi>Nathaniel Fitzrandal,</hi>
+                        </item>
+                        <item>
+                           <hi>Joſeph Richards,</hi>
+                        </item>
+                        <item>
+                           <hi>Edmund Wells,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Kimber,</hi>
+                        </item>
+                        <item>
+                           <hi>John Neall,</hi>
+                        </item>
+                        <item>
+                           <hi>Anthony Woodward,</hi>
+                        </item>
+                        <item>
+                           <hi>Andrew Smith,</hi>
+                        </item>
+                        <item>
+                           <hi>William Hixon,</hi>
+                        </item>
+                        <item>
+                           <hi>John Panceaſt,</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Burcham,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Hearſe,</hi>
+                        </item>
+                        <item>
+                           <hi>John Jones,</hi>
+                        </item>
+                        <item>
+                           <hi>Joſeph Willcox,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Godfrey,</hi>
+                        </item>
+                        <item>
+                           <hi>John Budd,</hi>
+                        </item>
+                        <item>
+                           <hi>Roger Parke,</hi>
+                        </item>
+                        <item>
+                           <hi>Caleb Wheatly,</hi>
+                        </item>
+                        <item>
+                           <hi>Edward White,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Gladwin,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Rutter,</hi>
+                        </item>
+                        <item>
+                           <hi>Edward Smith,</hi>
+                        </item>
+                        <item>
+                           <hi>Benjamin Morgan,</hi>
+                        </item>
+                        <item>
+                           <hi>Joſeph Sharp,</hi>
+                        </item>
+                        <item>
+                           <hi>William Thomas,</hi>
+                        </item>
+                        <item>
+                           <hi>John Bainbridge,</hi>
+                        </item>
+                        <item>
+                           <hi>John Snowden,</hi>
+                        </item>
+                        <item>
+                           <hi>William Black,</hi>
+                        </item>
+                        <item>
+                           <hi>William Snowden,</hi>
+                        </item>
+                        <item>
+                           <hi>Abraham Brown,</hi>
+                        </item>
+                        <item>
+                           <hi>John Hampton,</hi>
+                        </item>
+                        <item>
+                           <hi>Daniel Bacon,</hi>
+                        </item>
+                        <item>
+                           <hi>Joſeph Adams,</hi>
+                        </item>
+                        <item>
+                           <hi>Edward Guy,</hi>
+                        </item>
+                        <item>
+                           <hi>Barnard Devoniſh,</hi>
+                        </item>
+                        <item>
+                           <hi>Samuel Ellis,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Croſs,</hi>
+                        </item>
+                        <item>
+                           <hi>James Moore,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Jenner,</hi>
+                        </item>
+                        <item>
+                           <hi>John Harper,</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Wheeler,</hi>
+                        </item>
+                        <item>
+                           <hi>Nathaniel Walton,</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Roe,</hi>
+                        </item>
+                        <item>
+                           <hi>Peter Boſs,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Bowles,</hi>
+                        </item>
+                        <item>
+                           <hi>William Budd,</hi>
+                        </item>
+                        <item>
+                           <hi>James Silver,</hi>
+                        </item>
+                        <item>
+                           <hi>Samuel Taylor,</hi>
+                        </item>
+                        <item>
+                           <hi>Griffith Jones,</hi>
+                        </item>
+                        <item>
+                           <hi>William Righton,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Kendall,</hi>
+                        </item>
+                        <item>
+                           <hi>Samuel Houghton,</hi>
+                        </item>
+                        <item>
+                           <hi>Emanuel Smith,</hi>
+                        </item>
+                        <item>
+                           <hi>Peter Daite,</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Sery,</hi>
+                        </item>
+                        <item>
+                           <hi>George Willcox,</hi>
+                        </item>
+                        <item>
+                           <hi>William Wells,</hi>
+                        </item>
+                        <item>
+                           <hi>Iſaac Jacobs van Bibet.</hi>
+                        </item>
+                        <item>
+                           <hi>Cornelius Scevers,</hi>
+                        </item>
+                        <item>
+                           <hi>William Snead,</hi>
+                        </item>
+                        <item>
+                           <hi>David Sherkis,</hi>
+                        </item>
+                        <item>
+                           <hi>John Carter.</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Paxon,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Tindal.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>BOOKS lately Publiſhed, <hi>viz.</hi>
+            </head>
+            <p>☞ THE <hi>TRYALS</hi> of <hi>Peter Boſs, George Keith, Thomas Budd,</hi> and <hi>William Bradford,</hi> Quakers, for ſeveral great Miſdemeanours, before a <hi>Court of Quakers,</hi> at the Seſſions held at <hi>Philadelphia</hi> in <hi>Penſilvania,</hi> the Ninth, Tenth, and Twelfth Day of <hi>December,</hi> 1692. Giving alſo an Account of the moſt Arbitrary Procedure of that Court.</p>
+            <p>☞ An Account of the Diviſions of the <hi>Quakers</hi> in <hi>Penſilvania.</hi>
+            </p>
+            <p>☞ A further Account of the Diviſions of the <hi>Quakers</hi> in <hi>Penſilvania,</hi>
+            </p>
+            <p>☞ The Principles, Doctrines, Laws, and Orders of the <hi>Quakers.</hi>
+            </p>
+            <p>☞ The Judgment given forth by <hi>Twenty eight Quakers</hi> againſt <hi>George Keith,</hi> and his Friends; with Anſwers to the ſaid Judgment, declaring thoſe <hi>Twenty eight Quakers</hi> to be <hi>No Chriſtians.</hi> As alſo, an Appeal (for which ſeveral were Impri<g ref="char:EOLhyphen"/>ſoned) by the ſaid <hi>George Keith,</hi> &amp;c. to the Yearly Meeting, 1692. With a full Account of the ſaid Yearly Meeting, ſigned by Seventy <hi>Quakers.</hi>
+            </p>
+            <p>
+               <hi>All Five ſold by</hi> R. Baldwin, <hi>near the</hi> Oxford-Arms <hi>in</hi> Warwick-lane, 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
